@@ -1,0 +1,3 @@
+let Promise = require('./promise');
+
+
